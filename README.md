@@ -1,3 +1,3 @@
 # streamlit_app
 
-Aplicación desarrollada con Streamlit.
+https://cardiai.streamlit.app/
